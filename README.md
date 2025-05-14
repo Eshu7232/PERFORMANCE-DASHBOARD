@@ -27,13 +27,13 @@ Using this i created below perforamnces:
  9.waterfall chart etc.
   ### Features
  - Fully interactive Power BI report
- - 
+   
  - Bookmark-based navigation
- - 
+  
  - Filtered views by Country, Segment, Product, Discount, and Year
- - 
+   
  - Visual analysis of performance metrics
- - Easy to scale with real-world data
+  - Easy to scale with real-world data
 
    ### Technologies Used
   Power BI Desktop
