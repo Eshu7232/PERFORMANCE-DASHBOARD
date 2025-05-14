@@ -37,9 +37,13 @@ Using this i created below perforamnces:
 
    ### Technologies Used
   Power BI Desktop
+  
   Sample financial dataset
+  
   Bookmarks & slicers for navigation
+  
   Power Query (ETL)
+  
   Excel/CSV data source
  ### conclusion
   This project demonstrates the potential of Power BI in creating interactive and insightful dashboards using sample financial data. By incorporating bookmarks for intuitive navigation and analyzing performance across key business dimensions, the report delivers a user-friendly and visually compelling analytics experience.
