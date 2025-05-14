@@ -13,7 +13,9 @@ Using this i created below perforamnces:
 📅 Year-over-year trends
 
 -for that i uses bookmarks for navigation and performance views (like Country, Segment, Product, Discount, Year).
+
 -I used cards for kpi'requirements(sum of sales,sum of profit,sum of discounts,sum of sale price,sum of unit sold).
+
 -for this projecct i used charts are;
 
  1.column chart for sum of sales by country
