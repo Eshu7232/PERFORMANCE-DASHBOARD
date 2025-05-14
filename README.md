@@ -27,6 +27,8 @@ Using this i created below perforamnces:
  7.stacked area chart
  8.area chart
  9.waterfall chart etc.
+
+ -I applied visual level filters(slicers) for indivualcountry,product,discount band,segment.
   ### Features
  - Fully interactive Power BI report
    
